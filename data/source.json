@@ -1,0 +1,86 @@
+[
+  {
+    "id": "public-0",
+    "source": "source.json#/0",
+    "topic": "onboarding",
+    "scope": "public",
+    "text": "Read the welcome guide."
+  },
+  {
+    "id": "staff-0",
+    "source": "source.json#/1",
+    "topic": "onboarding",
+    "scope": "staff",
+    "text": "Use room A."
+  },
+  {
+    "id": "public-1",
+    "source": "source.json#/2",
+    "topic": "visitors",
+    "scope": "public",
+    "text": "Check in at reception."
+  },
+  {
+    "id": "staff-1",
+    "source": "source.json#/3",
+    "topic": "visitors",
+    "scope": "staff",
+    "text": "Use room B."
+  },
+  {
+    "id": "public-2",
+    "source": "source.json#/4",
+    "topic": "shipments",
+    "scope": "public",
+    "text": "Contact receiving."
+  },
+  {
+    "id": "staff-2",
+    "source": "source.json#/5",
+    "topic": "shipments",
+    "scope": "staff",
+    "text": "Use bay C."
+  },
+  {
+    "id": "public-3",
+    "source": "source.json#/6",
+    "topic": "training",
+    "scope": "public",
+    "text": "Check the course calendar."
+  },
+  {
+    "id": "staff-3",
+    "source": "source.json#/7",
+    "topic": "training",
+    "scope": "staff",
+    "text": "Use lab D."
+  },
+  {
+    "id": "public-4",
+    "source": "source.json#/8",
+    "topic": "printing",
+    "scope": "public",
+    "text": "Visit the help desk."
+  },
+  {
+    "id": "staff-4",
+    "source": "source.json#/9",
+    "topic": "printing",
+    "scope": "staff",
+    "text": "Use desk E."
+  },
+  {
+    "id": "public-5",
+    "source": "source.json#/10",
+    "topic": "parking",
+    "scope": "public",
+    "text": "Collect a visitor pass."
+  },
+  {
+    "id": "staff-5",
+    "source": "source.json#/11",
+    "topic": "parking",
+    "scope": "staff",
+    "text": "Use lot F."
+  }
+]

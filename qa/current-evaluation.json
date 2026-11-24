@@ -1,0 +1,308 @@
+{
+  "automated_gates_pass": true,
+  "metrics": {
+    "cases": 30,
+    "answer_accuracy": 1,
+    "citation_exact": 1,
+    "recall_at_5": 1.0,
+    "grounded_answer_exact": 1,
+    "refusal": 1,
+    "concurrent_accuracy": 1,
+    "p50_ms": 3.7337320000006002,
+    "p95_ms": 6.829342999992605,
+    "records": 12,
+    "source_bytes": 1704,
+    "concurrent_readers": 50,
+    "golden_sha256": "5e05345b148a999bd338fc96a109a7b122f6686521a68d737bd5518cc0e11e66"
+  },
+  "observations": [
+    {
+      "question": "onboarding",
+      "status": "answered",
+      "answer": "Read the welcome guide.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-0",
+          "source": "source.json#/0"
+        }
+      ]
+    },
+    {
+      "question": "Tell me about onboarding",
+      "status": "answered",
+      "answer": "Read the welcome guide.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-0",
+          "source": "source.json#/0"
+        }
+      ]
+    },
+    {
+      "question": "PUBLIC onboarding?",
+      "status": "answered",
+      "answer": "Read the welcome guide.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-0",
+          "source": "source.json#/0"
+        }
+      ]
+    },
+    {
+      "question": "staff onboarding",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    },
+    {
+      "question": "all records about onboarding",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    },
+    {
+      "question": "visitors",
+      "status": "answered",
+      "answer": "Check in at reception.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-1",
+          "source": "source.json#/2"
+        }
+      ]
+    },
+    {
+      "question": "Tell me about visitors",
+      "status": "answered",
+      "answer": "Check in at reception.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-1",
+          "source": "source.json#/2"
+        }
+      ]
+    },
+    {
+      "question": "PUBLIC visitors?",
+      "status": "answered",
+      "answer": "Check in at reception.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-1",
+          "source": "source.json#/2"
+        }
+      ]
+    },
+    {
+      "question": "staff visitors",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    },
+    {
+      "question": "all records about visitors",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    },
+    {
+      "question": "shipments",
+      "status": "answered",
+      "answer": "Contact receiving.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-2",
+          "source": "source.json#/4"
+        }
+      ]
+    },
+    {
+      "question": "Tell me about shipments",
+      "status": "answered",
+      "answer": "Contact receiving.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-2",
+          "source": "source.json#/4"
+        }
+      ]
+    },
+    {
+      "question": "PUBLIC shipments?",
+      "status": "answered",
+      "answer": "Contact receiving.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-2",
+          "source": "source.json#/4"
+        }
+      ]
+    },
+    {
+      "question": "staff shipments",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    },
+    {
+      "question": "all records about shipments",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    },
+    {
+      "question": "training",
+      "status": "answered",
+      "answer": "Check the course calendar.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-3",
+          "source": "source.json#/6"
+        }
+      ]
+    },
+    {
+      "question": "Tell me about training",
+      "status": "answered",
+      "answer": "Check the course calendar.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-3",
+          "source": "source.json#/6"
+        }
+      ]
+    },
+    {
+      "question": "PUBLIC training?",
+      "status": "answered",
+      "answer": "Check the course calendar.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-3",
+          "source": "source.json#/6"
+        }
+      ]
+    },
+    {
+      "question": "staff training",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    },
+    {
+      "question": "all records about training",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    },
+    {
+      "question": "printing",
+      "status": "answered",
+      "answer": "Visit the help desk.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-4",
+          "source": "source.json#/8"
+        }
+      ]
+    },
+    {
+      "question": "Tell me about printing",
+      "status": "answered",
+      "answer": "Visit the help desk.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-4",
+          "source": "source.json#/8"
+        }
+      ]
+    },
+    {
+      "question": "PUBLIC printing?",
+      "status": "answered",
+      "answer": "Visit the help desk.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-4",
+          "source": "source.json#/8"
+        }
+      ]
+    },
+    {
+      "question": "staff printing",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    },
+    {
+      "question": "all records about printing",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    },
+    {
+      "question": "parking",
+      "status": "answered",
+      "answer": "Collect a visitor pass.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-5",
+          "source": "source.json#/10"
+        }
+      ]
+    },
+    {
+      "question": "Tell me about parking",
+      "status": "answered",
+      "answer": "Collect a visitor pass.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-5",
+          "source": "source.json#/10"
+        }
+      ]
+    },
+    {
+      "question": "PUBLIC parking?",
+      "status": "answered",
+      "answer": "Collect a visitor pass.",
+      "method": "scope-filtered lookup",
+      "citations": [
+        {
+          "id": "public-5",
+          "source": "source.json#/10"
+        }
+      ]
+    },
+    {
+      "question": "staff parking",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    },
+    {
+      "question": "all records about parking",
+      "status": "insufficient_evidence",
+      "answer": null,
+      "citations": []
+    }
+  ]
+}

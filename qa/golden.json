@@ -1,0 +1,188 @@
+[
+  {
+    "q": "onboarding",
+    "a": "Read the welcome guide.",
+    "ids": [
+      "public-0"
+    ]
+  },
+  {
+    "q": "Tell me about onboarding",
+    "a": "Read the welcome guide.",
+    "ids": [
+      "public-0"
+    ]
+  },
+  {
+    "q": "PUBLIC onboarding?",
+    "a": "Read the welcome guide.",
+    "ids": [
+      "public-0"
+    ]
+  },
+  {
+    "q": "staff onboarding",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "all records about onboarding",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "visitors",
+    "a": "Check in at reception.",
+    "ids": [
+      "public-1"
+    ]
+  },
+  {
+    "q": "Tell me about visitors",
+    "a": "Check in at reception.",
+    "ids": [
+      "public-1"
+    ]
+  },
+  {
+    "q": "PUBLIC visitors?",
+    "a": "Check in at reception.",
+    "ids": [
+      "public-1"
+    ]
+  },
+  {
+    "q": "staff visitors",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "all records about visitors",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "shipments",
+    "a": "Contact receiving.",
+    "ids": [
+      "public-2"
+    ]
+  },
+  {
+    "q": "Tell me about shipments",
+    "a": "Contact receiving.",
+    "ids": [
+      "public-2"
+    ]
+  },
+  {
+    "q": "PUBLIC shipments?",
+    "a": "Contact receiving.",
+    "ids": [
+      "public-2"
+    ]
+  },
+  {
+    "q": "staff shipments",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "all records about shipments",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "training",
+    "a": "Check the course calendar.",
+    "ids": [
+      "public-3"
+    ]
+  },
+  {
+    "q": "Tell me about training",
+    "a": "Check the course calendar.",
+    "ids": [
+      "public-3"
+    ]
+  },
+  {
+    "q": "PUBLIC training?",
+    "a": "Check the course calendar.",
+    "ids": [
+      "public-3"
+    ]
+  },
+  {
+    "q": "staff training",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "all records about training",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "printing",
+    "a": "Visit the help desk.",
+    "ids": [
+      "public-4"
+    ]
+  },
+  {
+    "q": "Tell me about printing",
+    "a": "Visit the help desk.",
+    "ids": [
+      "public-4"
+    ]
+  },
+  {
+    "q": "PUBLIC printing?",
+    "a": "Visit the help desk.",
+    "ids": [
+      "public-4"
+    ]
+  },
+  {
+    "q": "staff printing",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "all records about printing",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "parking",
+    "a": "Collect a visitor pass.",
+    "ids": [
+      "public-5"
+    ]
+  },
+  {
+    "q": "Tell me about parking",
+    "a": "Collect a visitor pass.",
+    "ids": [
+      "public-5"
+    ]
+  },
+  {
+    "q": "PUBLIC parking?",
+    "a": "Collect a visitor pass.",
+    "ids": [
+      "public-5"
+    ]
+  },
+  {
+    "q": "staff parking",
+    "a": null,
+    "ids": []
+  },
+  {
+    "q": "all records about parking",
+    "a": null,
+    "ids": []
+  }
+]

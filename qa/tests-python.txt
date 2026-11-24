@@ -1,0 +1,21 @@
+test_atomic_readers (test_app.PipelineTests.test_atomic_readers) ... ok
+test_cli_persistence (test_app.PipelineTests.test_cli_persistence) ... ok
+test_golden (test_app.PipelineTests.test_golden) ... ok
+test_irrelevant (test_app.PipelineTests.test_irrelevant) ... ok
+test_normalization (test_app.PipelineTests.test_normalization) ... ok
+test_query_bounds (test_app.PipelineTests.test_query_bounds) ... ok
+test_schema (test_app.PipelineTests.test_schema) ... ok
+test_snapshot_lifecycle (test_app.PipelineTests.test_snapshot_lifecycle) ... ok
+test_source_errors (test_app.PipelineTests.test_source_errors) ... ok
+test_challenge_queries (test_domain.DomainTests.test_challenge_queries) ... ok
+test_staff_and_public_isolation (test_domain.DomainTests.test_staff_and_public_isolation) ... ok
+test_unsupported_scope (test_domain.DomainTests.test_unsupported_scope) ... ok
+test_authorized (test_transport.TransportTests.test_authorized) ... ok
+test_denied (test_transport.TransportTests.test_denied) ... ok
+test_filesystem_listener (test_transport.TransportTests.test_filesystem_listener) ... skipped 'host blocks AF_UNIX listener: [Errno 1] Operation not permitted'
+test_role_forgery (test_transport.TransportTests.test_role_forgery) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.081s
+
+OK (skipped=1)
